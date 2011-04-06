@@ -1,6 +1,6 @@
 = warden_extensions
 
-Description goes here.
+This project is a set of Ruby modules (most likely Rails dependent) built on-top of Warden (https://github.com/hassox/warden). The reason for this project is that too many people run into issues with other authentication "frameworks" for being too inflexible. Instead of building a "framework", instead this is just sets of modules that you pick and choose to include. Each module comes with documentation on how to wire them up for a standard workflow. 
 
 == Contributing to warden_extensions
  
